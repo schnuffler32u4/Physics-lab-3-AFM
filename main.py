@@ -2,6 +2,7 @@ from NSFopen.read import read
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+from scipy.optimize import curve_fit
 
 def flatten(data, order=1, mask=[]):
     data_out = np.copy(data)  # create copy of data
@@ -16,6 +17,13 @@ def flatten(data, order=1, mask=[]):
         y = np.polyval(p, x)
         data_out[idx] = out - y  # subtract fit from data
     return data_out
+
+def flatter(data):
+    data_out = np.copy(data)
+    data_in = np.copy(data)
+    for i in len(data)
+        p = np.polyfit()
+
 file = "Measurements/Carbon-nanotubes/Image00005.nid"
 afm = read(file)
 
