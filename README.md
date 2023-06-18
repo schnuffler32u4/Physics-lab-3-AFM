@@ -36,17 +36,23 @@ As it has the highest dimensions we can conclude that this sample corresponds to
 
 Here we can see how the samples looks like
 ![SampleA1](Figures/A1-center.png)
+
 ### Sample A2
+
 The characteristics of this sample are:
 
 - width of a bit: 0.36 ± 0.04 microns
 - distance between lines: 0.73 ± 0.07 microns
 
+![SampleA2](Figures/A2-center.png)
+
 ### Sample A3
 
+The characteristics of this sample are beign impossible to determine due to the funy size of the image set being too big.
+![SampleA3](Figures/A3-center.png)
 
 # Image processing 
 
-The color map to be used is blue-cyan and then the image export parameters can be seen in the shortcut included below.
+Firstly a plane level is set for the image. Then the color map to be used is blue-violet and then the image export parameters can be seen in the screenshot included below:
 ![Export parameters](Figures/image_params.png)
 
