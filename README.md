@@ -34,6 +34,8 @@ The characteristics of this sample are:
 
 As it has the highest dimensions we can conclude that this sample corresponds to the CD
 
+Here we can see how the samples looks like
+![SampleA1](Figures/A1-center.png)
 ### Sample A2
 The characteristics of this sample are:
 
@@ -41,3 +43,10 @@ The characteristics of this sample are:
 - distance between lines: 0.73 ± 0.07 microns
 
 ### Sample A3
+
+
+# Image processing 
+
+The color map to be used is blue-cyan and then the image export parameters can be seen in the shortcut included below.
+![Export parameters](Figures/image_params.png)
+
