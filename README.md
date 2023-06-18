@@ -29,10 +29,17 @@ For each of the samples (A1, A2, A3) we can calculate the parameters correspondi
 ### Sample A1
 The characteristics of this sample are:
 
-- width of a bit: 1.04 ± 0.08 microns
-- distance between lines: 1.73 ± 0.07 microns
+- width of a bit: 1.04 ± 0.08 μm
+- distance between lines: 1.73 ± 0.07 μm
 
 As it has the highest dimensions we can conclude that this sample corresponds to the CD
+
+These parameters, however, simply correspond to the raw data without any scaling having been applied to them.
+
+The new parameters are, therefore:
+
+- width of a bit: 
+- distance between lines: 
 
 Here we can see how the samples looks like
 ![SampleA1](Figures/A1-center.png)
@@ -41,15 +48,33 @@ Here we can see how the samples looks like
 
 The characteristics of this sample are:
 
-- width of a bit: 0.36 ± 0.04 microns
-- distance between lines: 0.73 ± 0.07 microns
+- width of a bit: 0.36 ± 0.04 μm
+- distance between lines: 0.73 ± 0.07 μm
+
+These parameters, however, simply correspond to the raw data without any scaling having been applied to them.
+
+The new parameters are, therefore:
+
+- width of a bit: 
+- distance between lines: 
 
 ![SampleA2](Figures/A2-center.png)
 
 ### Sample A3
 
 The characteristics of this sample are beign impossible to determine due to the funy size of the image set being too big.
+
+
 ![SampleA3](Figures/A3-center.png)
+
+
+## Carbon nanotubes
+
+There have been multiple measurements taken for the carbon nanotubes to be to determine the parameters of this sample.
+
+In the following image one can see the processed results:
+
+![Samplecarbonanotubes](Figures/Carbon-nano-left.png) 
 
 # Image processing 
 
