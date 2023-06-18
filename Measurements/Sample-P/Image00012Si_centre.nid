@@ -108,7 +108,7 @@ Ampl. Ctrl. mode=Const. Drive
 
 [DataSet\DataSetInfos\Global]
 SubSectionCount=0
-Measurement environment=Air
+/easurement environment=Air
 Op. mode=Static Force
 Cantilever type=Stat0.2LAuD
 Head type=AFM
